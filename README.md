@@ -1,2 +1,2 @@
 # osi-and-tcp
-<img width="828" alt="Image" src="https://github.com/user-attachments/assets/1593b5b8-b071-4edb-bd55-4acd69dc352c" />
+<img width="828" alt="Image" src="https://github.com/user-attachments/assets/4d30bb73-9fbc-49db-9b43-5037f048db04" />
